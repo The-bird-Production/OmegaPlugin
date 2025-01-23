@@ -1,6 +1,8 @@
 {
+  "id": "randomuid",
   "name": "Exemple plugin",
   "version": "1.0.0",
   "description": "Un plugin d'exemple",
-  "folder": "example-plugin"
+  "folder": "example-plugin",
+  "url": "/example-plugin"
 }
